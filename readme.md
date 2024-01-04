@@ -24,7 +24,9 @@ You can also run this repository locally by following these instructions:
 
 ![](images/RunAll.png)
 
-3. The Blazor web app and Swagger tabs should now be open on your browser. On Swagger, click "Try it out" and "Execute" to call and test the API. 
+3. The Blazor web app and Swagger tabs should now be open on your browser. On Swagger, click "Try it out" and "Execute" to call and test the API.
+   
+   注)フロントエンドはブラウザでそのまま開く。バックエンドはURLの末尾に/swaggerをつけて開く。
 
 ![](images/BlazorApp.png)
 ![](images/Swagger.png)
